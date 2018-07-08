@@ -18,9 +18,11 @@
   },
   "homepage": "https://github.com/dhalp/NeverTellMeTheOdds#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "mongodb": "^3.1.1"
   },
   "devDependencies": {
-    "eslint": "^5.0.1"
+    "eslint": "^5.0.1",
+    "nodemon": "^1.17.5"
   }
 }
